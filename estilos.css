@@ -3,15 +3,16 @@ body {
     background-color: rgb(233, 232, 255);   
 }
 
-a:hover {
-    color: blueviolet;
-}
-
 a:visited{
     color: aqua;
     font-size: smaller;
 }
 
+a:hover {
+    color: blueviolet;
+}
+
 a:active{
     color: yellow;
 }
+
