@@ -16,3 +16,6 @@ a:active{
     color: yellow;
 }
 
+a:link{
+    text-decoration: none;
+}
