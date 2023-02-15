@@ -13,12 +13,13 @@ a:hover {
 }
 
 a:active{
-    color: yellow;
+    color: rgb(43, 255, 0);
 }
 
 a:link{
     text-decoration: none;
 }
-div {
-    text-align: center;
+
+ul {
+    font-weight: bold;
 }
